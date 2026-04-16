@@ -6,9 +6,9 @@
 
 Скрипт
 
-apply_audit_policy_DC.bat -  Контроллеры домена 
-apply_audit_policy_Servers.bat - Серверы
-apply_audit_policy_workstation.bat - Рабочие станции
+apply_audit_policy_DC.bat -  Контроллеры домена, 
+apply_audit_policy_Servers.bat - Серверы, 
+apply_audit_policy_workstation.bat - Рабочие станции.
 
 ## Проблема
 
