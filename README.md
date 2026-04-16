@@ -32,7 +32,3 @@ apply_audit_policy_DC.bat          # Контроллер домена
 apply_audit_policy_Servers.bat     # Сервер
 apply_audit_policy_workstation.bat # Рабочая станция
 ```
-
-## Лицензия
-
-MIT
